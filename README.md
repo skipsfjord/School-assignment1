@@ -1,0 +1,2 @@
+# Rikard
+School assignment1
